@@ -1,5 +1,5 @@
 float x, y;
-float z, z1;
+float z, z1, z2;
 float amp;
 void setup(){
   size(800, 600);
